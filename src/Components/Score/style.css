@@ -1,0 +1,18 @@
+#app-score {
+	position: absolute;
+	left: calc(50% - 225px / 2);
+	opacity: 0.5;
+	background-color: lightgray;
+	color: darkblue;
+}
+#paused {
+	position: absolute;
+	left: calc(50% - 620px / 2);
+	top: 50%;
+	opacity: 0.5;
+	background-color: lightgray;
+	color: darkred;
+}
+.hidden {
+	display: none;
+}
